@@ -12,4 +12,4 @@ void* add(vector*, void*);
 void* delete(vector*, int);
 void* get(vector*, int);
 void* set(vector*, int, void*);
-
+#endif
